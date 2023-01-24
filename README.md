@@ -9,16 +9,15 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+### Links
+
+- Live Site URL: [https://jacobf-product-card-preview.netlify.app/](https://jacobf-product-card-preview.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-cGecz9Bak4](https://www.frontendmentor.io/solutions/product-preview-card-component-cGecz9Bak4)
+
 ### Screenshots
 
 ![](./Screen-Shot-desktop-view.png)
 ![](./Screen-Shot-Mobile-view.png)
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
 
 ### Built with
 
